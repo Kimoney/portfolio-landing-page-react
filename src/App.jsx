@@ -14,6 +14,7 @@ function SubmitForm() {
     console.log(survery)  
   }
 
+  
   return (
     <div>
         <h1>Survery Form</h1>
