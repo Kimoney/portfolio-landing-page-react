@@ -20,6 +20,7 @@ function App() {
     setPhoneInput(e.target.value)
   }
 
+  
   return (
     <div className="App">
       <h1>Event Listeners</h1>
